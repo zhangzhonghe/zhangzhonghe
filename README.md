@@ -2,8 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangzhonghe&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
 
-😄 Welcome!
-🌱 I’m currently learning Vue 3.0 source code ~
+- 😄 Welcome!
+- 🌱 I’m currently learning Vue 3.0 source code ~
 
 <!--
 **zhangzhonghe/zhangzhonghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
